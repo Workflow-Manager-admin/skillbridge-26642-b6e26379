@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
+import "./App-skillbridge.css";
 
 /**
  * PUBLIC_INTERFACE
